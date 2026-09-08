@@ -1,0 +1,50 @@
+{
+  "benchmark": [
+    {
+      "model": "Historical Mine-Mean Baseline",
+      "mae_tonnes": 39.9,
+      "rmse_tonnes": 62.84,
+      "r2": 0.2692
+    },
+    {
+      "model": "Ridge Regression (Linear)",
+      "mae_tonnes": 26.63,
+      "rmse_tonnes": 40.26,
+      "r2": 0.7
+    },
+    {
+      "model": "Random Forest (Bagging)",
+      "mae_tonnes": 20.77,
+      "rmse_tonnes": 30.57,
+      "r2": 0.827
+    },
+    {
+      "model": "XGBoost (Extreme Gradient Boosting)",
+      "mae_tonnes": 21.05,
+      "rmse_tonnes": 30.95,
+      "r2": 0.8227
+    },
+    {
+      "model": "Gradient Boosting Regressor (Best Output)",
+      "mae_tonnes": 19.72,
+      "rmse_tonnes": 28.32,
+      "r2": 0.8516
+    }
+  ],
+  "pct_model": {
+    "mae_pct": 1.49,
+    "r2": 0.8176
+  },
+  "top_features_gbr": {
+    "equipment_downtime_hrs": 0.3139333148869572,
+    "planned_production_tonnes": 0.2878854114104573,
+    "mine_Balaghat": 0.1270276643625804,
+    "transport_availability_pct": 0.12451883349451585,
+    "rainfall_mm": 0.059000838092064904,
+    "blasting_delay_hrs": 0.05191578256339401,
+    "labour_attendance_pct": 0.015131889751250061,
+    "rainfall_3d_sum": 0.008954995761362848,
+    "wind_speed_m_s": 0.002077024096718948,
+    "rainfall_lag1": 0.0017223325944135742
+  }
+}

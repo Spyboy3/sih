@@ -1,0 +1,13 @@
+mine_name,toposheet_no,mine_id,IBM_mine_code,district,state,mining_method,lat_min,lat_max,lon_min,lon_max,center_lat,center_lon,area_hectares
+Gumagaon,55K15,M01,40MSH14006,Nagpur,Maharashtra,underground,21.4,21.425,79,79.033333,21.4125,79.016666,49.39
+Beldongri,55O07,M02,40MSH14002,Nagpur,Maharashtra,underground,21.3375,21.3625,79.258333,79.2875,21.35,79.272916,27.15
+Kandri,55O07,M03,40MSH14008,Nagpur,Maharashtra,underground,21.416667,21.445833,79.266667,79.308333,21.43125,79.2875,85.77
+Munsar,55O07,M04,40MSH14010,Nagpur,Maharashtra,underground,21.3875,21.4125,79.283333,79.320833,21.4,79.302083,16.84
+Chikla,55O14,M05,40MSH05001,Bhandara,Maharashtra,underground,21.541667,21.570833,79.733333,79.775,21.55625,79.754166,108.63
+Dongri Buzurg,55O10,M06,40MSH05002,Bhandara,Maharashtra,Opencast,21.533333,21.5625,79.691667,79.725,21.547916,79.708333,53.98
+Balaghat,55O10,M07,40MPR01002,Balaghat,Madhya Pradesh,Underground,21.804167,21.816667,80.175,80.195833,21.810417,80.185417,182.35
+Tirodi,55O10,M08,40MPR01069,Balaghat,Madhya Pradesh,Opencast,21.683333,21.716667,79.666667,79.704167,21.7,79.685417,140.35
+Sitapatore,55O10,M09,40MPR01037,Balaghat,Madhya Pradesh,Opencast,21.720833,21.741667,79.7,79.729167,21.73125,79.714584,43.35
+Ukwa,64C05,M10,40MPR01018,Balaghat,Madhya Pradesh,Underground,22,22.041667,80.45,80.495833,22.020834,80.472916,48.974
+EMD Plant,,P01,,Bhandara,Maharashtra,,21.55,21.55,79.708333,79.708333,21.55,79.708333,
+FMP Plant,,P02,,Balaghat,Madhya Pradesh,,21.808333,21.808333,80.183333,80.183333,21.808333,80.183333,
